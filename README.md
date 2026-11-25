@@ -5,10 +5,9 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gheorghe-dev/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://danielgheorghe.vercel.app/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielgheorghedev@gmail.com)
 
 
 
 ### 🛠 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,postgres,supabase,mongodb,nodejs,express,html,css,tailwind,c,cpp,git,vscode,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,vue,nuxtjs,react,tailwind,php,laravel,nodejs,postgres,mongodb,docker,git,figma,vscode&perline=7)](https://skillicons.dev)
